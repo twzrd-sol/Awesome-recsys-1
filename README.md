@@ -276,7 +276,7 @@
 * https://github.com/RUCAIBox/RecSysDatasets
 * 30music / impresions / tv audience - https://recsys.deib.polimi.it/datasets/
 * http://archive.ics.uci.edu/ml/datasets/KASANDR
-
+* yambda https://huggingface.co/datasets/yandex/yambda
 
 
 
